@@ -1,6 +1,6 @@
 # Recriando a página inicial do Instagram!
 
-*Esse é o repositório da aula Flexbox, na qual recriar a interface do Instagram!*
+*Esse é o repositório da aula Flexbox, na qual recriarei a interface do Instagram!*
 
 ### Os requisitos são:
 
